@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "Fernet",
+        "precio": 2300,
+        "img": "./assets/fernetbranca.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Gancia",
+        "precio": 1900,
+        "img": "./assets/gancia.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Skyy",
+        "precio": 2500,
+        "img": "./assets/skyy.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Smirnoff",
+        "precio": 2800,
+        "img": "./assets/smirnoff.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Bombay",
+        "precio": 3500,
+        "img": "./assets/bombay.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Beefeater",
+        "precio": 7500,
+        "img": "./assets/beefeater.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Red Label",
+        "precio": 8000,
+        "img": "./assets/redlabel.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Absolut Vodka",
+        "precio": 10000,
+        "img": "./assets/absolut.jpg",
+        "cantidad": 1
+    }
+    ]
